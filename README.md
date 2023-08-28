@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leftstanding
-- 💻 I'm working as a Jr Backend Elixir Dev
+- 💻 I'm working as a Backend Elixir Dev
 - 👀 I’m interested in Programming, Dev
 - 🌱 I’m currently learning Elixir, HTML/CSS/JS
 - 💞️ I’m looking to collaborate on anything
